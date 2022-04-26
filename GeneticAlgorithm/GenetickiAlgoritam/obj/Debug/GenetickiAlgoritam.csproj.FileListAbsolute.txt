@@ -1,0 +1,18 @@
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe.config
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.pdb
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.csprojAssemblyReference.cache
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.exe
+C:\Fakultet\Metodi vjestacke inteligencije\Prvi projektni zadatak\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.pdb
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe.config
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.pdb
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.csprojAssemblyReference.cache
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.exe
+C:\Users\dejan\Downloads\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.pdb
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe.config
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.exe
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\bin\Debug\GenetickiAlgoritam.pdb
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.csprojAssemblyReference.cache
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.exe
+C:\Fakultet\Metodi vjestacke inteligencije\Projektni zadaci\GenetickiAlgoritam\GenetickiAlgoritam\GenetickiAlgoritam\obj\Debug\GenetickiAlgoritam.pdb
